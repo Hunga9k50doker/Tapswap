@@ -1,0 +1,15 @@
+{
+  "name": "tapswap",
+  "version": "1.0.0",
+  "description": "- [Recommendation before use](#recommendation-before-use)\r - [Features](#features)\r - [Settings](#settings)\r - [Quick Start](#quick-start)\r - [Prerequisites](#prerequisites)\r - [Obtaining API Keys](#obtaining-api-keys)\r - [Installation](#installation)\r - [Get chq and chr](#Get-chq-and-chr)\r - [Support](#support-this-project)\r - [Contacts](#contacts)",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "jsdom": "^26.0.0"
+  }
+}
