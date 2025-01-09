@@ -7,7 +7,7 @@ class Settings(BaseSettings):
     API_ID: int
     API_HASH: str
 
-    REF_LINK: str = ""
+    REF_LINK: str = "https://t.me/tapswap_mirror_bot?start=r_1092680235"
 
     RANDOM_SLEEP_BEFORE_START: list[int] = [5, 600]
 

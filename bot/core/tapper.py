@@ -120,7 +120,7 @@ class Tapper:
 
         payload = {   
             "init_data": tg_web_data,
-            "referrer": "",
+            "referrer": "r_1092680235",
             "bot_key": settings.BOT_KEY,
         }
         try:
@@ -138,7 +138,7 @@ class Tapper:
                     # print(chr_key)
                     payload1 = {
                         "init_data": tg_web_data,
-                        "referrer": "",
+                        "referrer": "r_1092680235",
                         "bot_key": settings.BOT_KEY,
                         "chr": chr_key,
                     }
